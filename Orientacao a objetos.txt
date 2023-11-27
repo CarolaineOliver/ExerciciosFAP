@@ -1,0 +1,64 @@
+Objeto material 1 = Carro
+
+Atributos:
+
+Marca: Ford,
+Cor: Branca,
+Ano: 2018
+
+Metodos:
+
+Acelerar
+Freiar
+buzinar
+
+Objeto material 2 = Computador
+
+Atributos:
+
+marca: Acer
+modelo: NItro5
+Cor: Vermelho e preto
+
+Metodos:
+
+ligar
+desligar
+pesquisar 
+
+
+Objeto abstrato 1 = Conta de banco
+Atributos:
+
+conta,
+agencia,
+saldo
+
+Metodos:
+
+depositar
+sacar
+verificar saldo
+
+Objeto abstrato 2 = Registro de alunos 
+
+Atributos:
+
+nome
+sobrenome
+curso
+
+Metodos:
+
+presença
+aprovado
+recuperação
+
+
+
+
+
+
+
+
+
